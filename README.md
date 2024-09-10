@@ -15,9 +15,9 @@ class, which can cause loss of information.
 
 ## Dirs and files
 
-- [Notebook](https://github.com/Lukah1505/imbalanced_dataset-/blob/master/nbs/imbalanced_dataset.ipynb)
-- [Source code](https://github.com/Lukah1505/imbalanced_dataset-/tree/master/src)
-- [Result file](https://github.com/Lukah1505/imbalanced_dataset-/blob/master/data/results.csv)
+- [Notebook](https://github.com/Lukah1505/imbalanced/blob/master/nbs/imbalanced_dataset.ipynb)
+- [Source code](https://github.com/Lukah1505/imbalanced/tree/master/src)
+- [Result file](https://github.com/Lukah1505/imbalanced/blob/master/data/results.csv)
 
 
 
